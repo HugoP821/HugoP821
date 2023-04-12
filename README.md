@@ -1,16 +1,14 @@
-### Hi there 👋
+<div id="heade" align="center">
+    <iframe src="https://giphy.com/embed/qY4W6q4Dj2zpC" width="480" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/haydiroket-art-animated-qY4W6q4Dj2zpC">via GIPHY</a></p>
+    <h1 align="center">Hi 👋, Im Hugo</h1>
+    <h3 align="center">Developer with Experience in response to incidents and problems in financial software. Software automation and DevOps, oriented to work with agile methodologies such as Scrum through user stories. Early diagnosis skills and overcoming critical incidents.</h3>
+    <a href = “instagram://user?hug.paal=hug.paal>hug.paal profile</a>
+</div>
 
-<!--
-**HugoP821/HugoP821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- DevOps Engineer
+- Dev Hacking
+- Automation Engineer
