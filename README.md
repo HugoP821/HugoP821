@@ -9,6 +9,11 @@
 
 
 ### About me
-- DevOps Engineer
-- Dev Hacking
+
+Experience in the finance-tech industry. Response to incidents, involved in a project SaaS, Automation & DevOps (CI/CD) in a financial company 
+
 - Automation Engineer
+- DevOps Engineer
+
+### Social Media
+- Instagram: https://www.instagram.com/hug.paal/
